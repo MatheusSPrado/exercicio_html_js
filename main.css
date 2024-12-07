@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+form {
+    max-width: 300px;
+    margin: auto;
+}
+.message {
+    margin-top: 15px;
+    font-weight: bold;
+}
+.success {
+    color: green;
+}
+.error {
+    color: red;
+}
+
